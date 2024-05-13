@@ -1,0 +1,24 @@
+.bck
+{
+    background-image: url("Div [banner].png");
+    background-repeat: none;
+    background-size:cover;
+    
+
+}
+
+.orn
+{
+    color:orangered;
+    
+}
+
+.wht
+{
+    color:rgb(245, 244, 242);
+    
+}
+
+.bcko {
+    background-color: orangered;
+}
